@@ -1,0 +1,5 @@
+{
+  "name": "精听练习APP (Intensive Listening)",
+  "description": "An AI-powered intensive listening practice tool. Upload audio to automatically segment sentences, generate transcripts, and practice with cloze exercises.",
+  "requestFramePermissions": []
+}
